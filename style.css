@@ -1,0 +1,28 @@
+html, body {
+    background-color: rgb(10, 0, 32);
+}
+
+.container {
+    color: #fff;
+    margin-top: 10%;
+}
+
+ul {
+    list-style-type: '🎵';
+    list-style-position: inside;
+    padding: 1rem;
+}
+
+li {
+    margin-top: .5rem;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+a:hover {
+    color: rgb(253, 213, 51)
+}
